@@ -1,0 +1,250 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Boudicca
+  rotate: false
+  xy: 4, 1476
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Catherine
+  rotate: false
+  xy: 4, 1108
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Darius I
+  rotate: false
+  xy: 372, 1476
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dido
+  rotate: false
+  xy: 4, 740
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Elizabeth
+  rotate: false
+  xy: 372, 1108
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gandhi
+  rotate: false
+  xy: 740, 1476
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Genghis Khan
+  rotate: false
+  xy: 4, 372
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/George Washington
+  rotate: false
+  xy: 372, 740
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gustavus Adolphus
+  rotate: false
+  xy: 740, 1108
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Haile Selassie
+  rotate: false
+  xy: 1108, 1476
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Harald Bluetooth
+  rotate: false
+  xy: 4, 4
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Harun al-Rashid
+  rotate: false
+  xy: 372, 372
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hiawatha
+  rotate: false
+  xy: 740, 740
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Isabella
+  rotate: false
+  xy: 1108, 1108
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Kamehameha I
+  rotate: false
+  xy: 1476, 1476
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Maria Theresa
+  rotate: false
+  xy: 372, 4
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Montezuma I
+  rotate: false
+  xy: 740, 372
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Napoleon
+  rotate: false
+  xy: 1108, 740
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Nebuchadnezzar II
+  rotate: false
+  xy: 1476, 1108
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Oda Nobunaga
+  rotate: false
+  xy: 740, 4
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Otto von Bismarck
+  rotate: false
+  xy: 1108, 372
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pacal
+  rotate: false
+  xy: 1476, 740
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pachacuti
+  rotate: false
+  xy: 1108, 4
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ramesses II
+  rotate: false
+  xy: 1476, 372
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ramkhamhaeng
+  rotate: false
+  xy: 1476, 4
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Alexander
+  rotate: false
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Askia
+  rotate: false
+  xy: 740, 372
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Attila the Hun
+  rotate: false
+  xy: 1108, 740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Augustus Caesar
+  rotate: false
+  xy: 268, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sejong
+  rotate: false
+  xy: 4, 636
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Suleiman I
+  rotate: false
+  xy: 4, 268
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Theodora
+  rotate: false
+  xy: 372, 636
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/William of Orange
+  rotate: false
+  xy: 372, 268
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Wu Zetian
+  rotate: false
+  xy: 740, 636
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
