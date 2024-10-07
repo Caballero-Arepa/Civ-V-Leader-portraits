@@ -185,30 +185,79 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderIcons/Alexander
+LeaderIcons/Ahmad al-Mansur
   rotate: false
   xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Askia
+LeaderIcons/Alexander
   rotate: false
   xy: 740, 372
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Attila the Hun
+LeaderIcons/Ashurbanipal
   rotate: false
   xy: 1108, 740
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Augustus Caesar
+LeaderIcons/Askia
   rotate: false
   xy: 268, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Attila the Hun
+  rotate: false
+  xy: 1372, 740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Augustus Caesar
+  rotate: false
+  xy: 1636, 740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Casimir III
+  rotate: false
+  xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Enrico Dandolo
+  rotate: false
+  xy: 1004, 372
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gajah Mada
+  rotate: false
+  xy: 796, 108
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Maria I
+  rotate: false
+  xy: 1060, 108
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pocatello
+  rotate: false
+  xy: 1268, 476
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -218,6 +267,13 @@ LeaderIcons/Sejong
   xy: 4, 636
   size: 360, 360
   orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shaka
+  rotate: false
+  xy: 1532, 476
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 LeaderIcons/Suleiman I
